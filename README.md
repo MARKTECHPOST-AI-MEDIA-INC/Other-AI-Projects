@@ -18,6 +18,8 @@ List of RAG, AI Infrastructure, Security Projects with Full Implementation codes
 
 ### Security
 
+▶ A Coding Implementation to Recover Hidden Malware IOCs with FLARE-FLOSS Beyond Classic Strings Analysis [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/Security/recover_hidden_malware_iocs_with_flare_floss_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/05/09/a-coding-implementation-to-recover-hidden-malware-iocs-with-flare-floss-beyond-classic-strings-analysis/)
+
 ▶ A Coding Implementation to Build an AI-Powered File Type Detection and Security Analysis Pipeline with Magika and OpenAI [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/Security/magika_openai_file_detection_security_analysis_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/04/19/a-coding-implementation-to-build-an-ai-powered-file-type-detection-and-security-analysis-pipeline-with-magika-and-openai/)
 
 ▶ How to Build Multi-Layered LLM Safety Filters to Defend Against Adaptive, Paraphrased, and Adversarial Prompt Attacks [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/Adversarial%20Attacks/robust_llm_safety_filters_adaptive_attack_defense_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/02/02/how-to-build-multi-layered-llm-safety-filters-to-defend-against-adaptive-paraphrased-and-adversarial-prompt-attacks/)
