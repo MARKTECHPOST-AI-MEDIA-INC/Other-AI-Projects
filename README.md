@@ -3,6 +3,8 @@ List of RAG, AI Infrastructure, Security Projects with Full Implementation codes
 
 ### RAG
 
+▶ Design a High-Precision Retrieve-and-Rerank Pipeline with ZeroEntropy Zerank-2 Reranker [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/RAG/zerank_2_reranker_retrieve_and_rerank_pipeline_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/05/26/design-a-high-precision-retrieve-and-rerank-pipeline-with-zeroentropy-zerank-2-reranker/)
+
 ▶ How Tree-KG Enables Hierarchical Knowledge Graphs for Contextual Navigation and Explainable Multi-Hop Reasoning Beyond Traditional RAG [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/RAG/tree_kg_hierarchical_knowledge_graph_multi_hop_reasoning_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/01/27/how-tree-kg-enables-hierarchical-knowledge-graphs-for-contextual-navigation-and-explainable-multi-hop-reasoning-beyond-traditional-rag/)
 
 ▶ How to Reduce Cost and Latency of Your RAG Application Using Semantic LLM Caching [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/RAG/Semantic_Caching.ipynb) [Tutorial](https://www.marktechpost.com/2025/11/11/how-to-reduce-cost-and-latency-of-your-rag-application-using-semantic-llm-caching/)
