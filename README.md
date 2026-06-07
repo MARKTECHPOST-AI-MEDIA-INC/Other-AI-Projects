@@ -20,6 +20,8 @@ List of RAG, AI Infrastructure, Security Projects with Full Implementation codes
 
 ### Security
 
+▶ NVIDIA garak Tutorial: Build a Complete Defensive LLM Red-Teaming Workflow with Custom Probes and Detectors [Codes](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials/blob/main/LLM%20Evaluation/nvidia_garak_llm_red_teaming_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/06/06/nvidia-garak-tutorial-build-a-complete-defensive-llm-red-teaming-workflow-with-custom-probes-and-detectors/)
+
 ▶ How to Build a Dynamic Zero-Trust Network Simulation with Graph-Based Micro-Segmentation, Adaptive Policy Engine, and Insider Threat Detection [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/Security/zero_trust_network_simulation_policy_engine_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/05/13/how-to-build-a-dynamic-zero-trust-network-simulation-with-graph-based-micro-segmentation-adaptive-policy-engine-and-insider-threat-detection/)
 
 ▶ A Coding Implementation to Recover Hidden Malware IOCs with FLARE-FLOSS Beyond Classic Strings Analysis [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/Security/recover_hidden_malware_iocs_with_flare_floss_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/05/09/a-coding-implementation-to-recover-hidden-malware-iocs-with-flare-floss-beyond-classic-strings-analysis/)
