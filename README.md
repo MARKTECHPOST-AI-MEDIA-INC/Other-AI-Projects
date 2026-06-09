@@ -39,6 +39,8 @@ List of RAG, AI Infrastructure, Security Projects with Full Implementation codes
 
 ### AI Infrastructure
 
+▶ NVIDIA cuTile Python Tutorial: Building Tiled GPU Kernels for Vector Addition, Matrix Addition, and Matrix Multiplication in Colab [Codes](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials/blob/main/Distributed%20Systems/nvidia_cutile_python_gpu_kernels_colab_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/06/09/nvidia-cutile-python-tutorial-building-tiled-gpu-kernels-for-vector-addition-matrix-addition-and-matrix-multiplication-in-colab/)
+
 ▶ A Coding Implementation on Loguru for Designing Robust, Structured, Concurrent, and Production-Ready Python Logging Pipelines [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/Distributed%20Systems/loguru_production_logging_tutorial_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/05/31/a-coding-implementation-on-loguru-for-designing-robust-structured-concurrent-and-production-ready-python-logging-pipelines/)
 
 ▶ A Coding Guide to Build a Production-Grade Background Task Processing System Using Huey with SQLite, Scheduling, Retries, Pipelines, and Concurrency Control [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/Distributed%20Systems/huey_async_tasks_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/04/17/a-coding-guide-to-build-a-production-grade-background-task-processing-system-using-huey-with-sqlite-scheduling-retries-pipelines-and-concurrency-control/)
