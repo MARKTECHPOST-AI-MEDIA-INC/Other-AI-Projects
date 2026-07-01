@@ -41,6 +41,8 @@ List of RAG, AI Infrastructure, Security Projects with Full Implementation codes
 
 ### AI Infrastructure
 
+▶ CUP (Common Useful Python): Building Reliable Python Workflows with Baidu’s Utility Toolkit [Codes](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials/blob/main/Distributed%20Systems/baidu_cup_practical_python_system_utilities_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/06/30/cup-common-useful-python-building-reliable-python-workflows-with-baidus-utility-toolkit/)
+
 ▶ NVIDIA cuTile Python Tutorial: Building Tiled GPU Kernels for Vector Addition, Matrix Addition, and Matrix Multiplication in Colab [Codes](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials/blob/main/Distributed%20Systems/nvidia_cutile_python_gpu_kernels_colab_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/06/09/nvidia-cutile-python-tutorial-building-tiled-gpu-kernels-for-vector-addition-matrix-addition-and-matrix-multiplication-in-colab/)
 
 ▶ A Coding Implementation on Loguru for Designing Robust, Structured, Concurrent, and Production-Ready Python Logging Pipelines [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/Distributed%20Systems/loguru_production_logging_tutorial_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/05/31/a-coding-implementation-on-loguru-for-designing-robust-structured-concurrent-and-production-ready-python-logging-pipelines/)
