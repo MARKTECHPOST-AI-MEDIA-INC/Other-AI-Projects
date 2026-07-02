@@ -3,6 +3,8 @@ List of RAG, AI Infrastructure, Security Projects with Full Implementation codes
 
 ### RAG
 
+▶ RAG-Anything Tutorial: Build a Multimodal Retrieval Pipeline for Text, Tables, Equations, and Images in Colab [Codes](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials/blob/main/LLM%20Projects/rag_anything_multimodal_hybrid_retrieval_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/07/02/rag-anything-tutorial-build-a-multimodal-retrieval-pipeline-for-text-tables-equations-and-images-in-colab/)
+
 ▶ Design a High-Precision Retrieve-and-Rerank Pipeline with ZeroEntropy Zerank-2 Reranker [Codes](https://github.com/Marktechpost/AI-Agents-Projects-Tutorials/blob/main/RAG/zerank_2_reranker_retrieve_and_rerank_pipeline_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/05/26/design-a-high-precision-retrieve-and-rerank-pipeline-with-zeroentropy-zerank-2-reranker/)
 
 ▶ How Tree-KG Enables Hierarchical Knowledge Graphs for Contextual Navigation and Explainable Multi-Hop Reasoning Beyond Traditional RAG [Codes](https://github.com/Marktechpost/AI-Tutorial-Codes-Included/blob/main/RAG/tree_kg_hierarchical_knowledge_graph_multi_hop_reasoning_marktechpost.py) [Tutorial](https://www.marktechpost.com/2026/01/27/how-tree-kg-enables-hierarchical-knowledge-graphs-for-contextual-navigation-and-explainable-multi-hop-reasoning-beyond-traditional-rag/)
