@@ -43,6 +43,8 @@ List of RAG, AI Infrastructure, Security Projects with Full Implementation codes
 
 ### AI Infrastructure
 
+▶ Validating Distributed LLM Serving Benchmarks with NVIDIA srt-slurm, SLURM Recipes, Parameter Sweeps, and Pareto Analysis [Codes](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials/blob/main/Distributed%20Systems/nvidia_srt_slurm_distributed_llm_benchmarking_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/07/21/validating-distributed-llm-serving-benchmarks-with-nvidia-srt-slurm-slurm-recipes-parameter-sweeps-and-pareto-analysis/)
+
 ▶ A Coding Guide to NVIDIA’s Tile-Based GPU Programming: From cuTile and Triton Kernels to Flash Attention [Codes](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials/blob/main/Deep%20Learning/tile_based_gpu_kernels_cutile_triton_flash_attention_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/07/11/a-coding-guide-to-nvidias-tile-based-gpu-programming-from-cutile-and-triton-kernels-to-flash-attention/)
 
 ▶ CUP (Common Useful Python): Building Reliable Python Workflows with Baidu’s Utility Toolkit [Codes](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials/blob/main/Distributed%20Systems/baidu_cup_practical_python_system_utilities_tutorial_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/06/30/cup-common-useful-python-building-reliable-python-workflows-with-baidus-utility-toolkit/)
