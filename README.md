@@ -45,6 +45,8 @@ List of RAG, AI Infrastructure, Security Projects with Full Implementation codes
 
 ### AI Infrastructure
 
+▶ How to Use Meta’s Rebalancer for Task Placement & Optimization [Codes](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials/blob/main/Distributed%20Systems/meta_rebalancer_datacenter_placement_exact_vs_local_search_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/10/13/how-to-use-metas-rebalancer-for-task-placement-optimization/)
+
 ▶ Accelerating Transformer Training with NVIDIA Transformer Engine, Fused Kernels, BF16, FP8, and GPU Benchmarking [Codes](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials/blob/main/Deep%20Learning/nvidia_transformer_engine_fp8_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/08/01/accelerating-transformer-training-with-nvidia-transformer-engine-fused-kernels-bf16-fp8-and-gpu-benchmarking/)
 
 ▶ Validating Distributed LLM Serving Benchmarks with NVIDIA srt-slurm, SLURM Recipes, Parameter Sweeps, and Pareto Analysis [Codes](https://github.com/MARKTECHPOST-AI-MEDIA-INC/AI-Agents-Projects-Tutorials/blob/main/Distributed%20Systems/nvidia_srt_slurm_distributed_llm_benchmarking_Marktechpost.ipynb) [Tutorial](https://www.marktechpost.com/2026/07/21/validating-distributed-llm-serving-benchmarks-with-nvidia-srt-slurm-slurm-recipes-parameter-sweeps-and-pareto-analysis/)
